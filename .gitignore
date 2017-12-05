@@ -1,0 +1,17 @@
+*.iml
+*/*.iml
+*.ipr
+*.iws
+.class
+out
+*/out/
+*/target/
+
+*/.idea/
+.idea/
+
+*/.settings/
+*/src/test/**
+**/src/test/**
+
+build/
